@@ -11,11 +11,11 @@ For this code base I have used it for my purpose, I have also consumed the JSON 
 
 #For Example
 
-In the data file you have provided with the, 
+*In the data file you have provided with the, 
 
 ** int demoFunction(uint16_t param1, bool param2, uint8_t param3);**
 
-Once you run the code, it will yield you.
+*Once you run the code, it will yield you.
 
 **[{
   "params" : [
